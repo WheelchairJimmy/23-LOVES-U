@@ -1,0 +1,15 @@
+2024-04-17 10:26:44 - Prediction: win
+2024-04-17 10:26:47 - Prediction: win
+2024-04-17 10:31:57 - Prediction: win
+2024-04-18 09:33:41 - Prediction: win
+2024-04-18 09:33:49 - Prediction: lose
+2024-04-18 11:25:19 - Prediction: win
+2024-04-18 11:25:31 - Prediction: win
+2024-04-18 11:50:06 - Prediction: win
+2024-04-19 16:47:28 - Prediction: win
+2024-04-22 12:59:03 - Prediction: win
+2024-04-26 10:52:43 - Prediction: draw
+2024-05-09 10:28:10 - Prediction: draw
+2024-05-09 14:26:22 - Prediction: win
+2024-05-10 12:04:27 - Prediction: win
+2024-05-10 12:05:59 - Prediction: win
